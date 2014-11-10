@@ -465,6 +465,21 @@ header {
 
 
 /* CUSTOM STYLES */
+.welcome {
+    text-align: center;
+}
+
 .btn-cta, .btn-ctn {
     background: #ff9600;
+}
+
+#screenshots .thumbnail a {
+    width: 291px;
+    height: 517px;
+    overflow-x: hidden;
+}
+
+#screenshots .thumbnail img {
+    width: 291px;
+    height: auto;
 }
