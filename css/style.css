@@ -462,3 +462,9 @@ header {
 	}
 
 }
+
+
+/* CUSTOM STYLES */
+.btn-cta, .btn-ctn {
+    background: #ff9600;
+}
