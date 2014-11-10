@@ -483,3 +483,8 @@ header {
     width: 291px;
     height: auto;
 }
+
+.more-features {
+	padding-top: 20px;
+	padding-bottom: 100px;
+}
