@@ -2,7 +2,31 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c0e37b8f-ff05-4339-8ca3-7fcb9063029c" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/screenshots/1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/100x44.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/screenshots/2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/screenshots/3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/screenshots/4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/screenshots/5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/screenshots/6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/Homepage.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/screenshots/screenshots-B2B-640*1136.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/screenshots/screenshots-deals-640*1136.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/screenshots/screenshots-excursion-640*1136.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/screenshots/screenshots-guide-640*1136.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/screenshots/screenshots-mobile-640*1136.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/screenshots/screenshots-search-640*1136.png" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/i1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/i2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/i3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/icon_borders.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/iphone.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/iphone2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/screenshots/1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/screenshots/2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/screenshots/3.jpg" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="worldcruise.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -28,22 +52,19 @@
       <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="3.5221238" vertical-offset="395" max-vertical-offset="2625">
-              <caret line="184" column="49" selection-start-line="184" selection-start-column="49" selection-end-line="184" selection-end-column="49" />
+            <state vertical-scroll-proportion="-0.21238938" vertical-offset="405" max-vertical-offset="3150">
+              <caret line="19" column="20" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
               <folding>
-                <element signature="tag#section#3;tag#body#0;tag#html#0" expanded="false" />
+                <element signature="tag#div#0;tag#div#0;tag#div#0;tag#nav#0;tag#header#0;tag#section#0;tag#body#0;tag#html#0" expanded="false" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style.css" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/style.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="1979" max-vertical-offset="7035">
-              <caret line="151" column="18" selection-start-line="151" selection-start-column="18" selection-end-line="151" selection-end-column="18" />
-              <folding />
-            </state>
+      <file leaf-file-name="Homepage.png" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/img/Homepage.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
           </provider>
         </entry>
       </file>
@@ -66,8 +87,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1265" />
-    <option name="y" value="-22" />
+    <option name="x" value="1494" />
+    <option name="y" value="-16" />
     <option name="width" value="1933" />
     <option name="height" value="711" />
   </component>
@@ -113,6 +134,38 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="worldcruise" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="worldcruise" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="worldcruise" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="img" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="worldcruise" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="worldcruise" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="img" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="screenshots" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -286,7 +339,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1265" y="-22" width="1933" height="711" extended-state="0" />
+    <frame x="1494" y="-16" width="1933" height="711" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -334,7 +387,7 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="1522" max-vertical-offset="3750">
           <caret line="241" column="32" selection-start-line="241" selection-start-column="32" selection-end-line="241" selection-end-column="32" />
           <folding>
-            <element signature="tag#section#3;tag#body#0;tag#html#0" expanded="false" />
+            <element signature="tag#div#0;tag#div#0;tag#div#0;tag#nav#0;tag#header#0;tag#section#0;tag#body#0;tag#html#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -370,12 +423,22 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/img/100x44.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/Homepage.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="3.5221238" vertical-offset="395" max-vertical-offset="2625">
-          <caret line="184" column="49" selection-start-line="184" selection-start-column="49" selection-end-line="184" selection-end-column="49" />
+        <state vertical-scroll-proportion="-0.21238938" vertical-offset="405" max-vertical-offset="3150">
+          <caret line="19" column="20" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
           <folding>
-            <element signature="tag#section#3;tag#body#0;tag#html#0" expanded="false" />
+            <element signature="tag#div#0;tag#div#0;tag#div#0;tag#nav#0;tag#header#0;tag#section#0;tag#body#0;tag#html#0" expanded="false" />
           </folding>
         </state>
       </provider>
