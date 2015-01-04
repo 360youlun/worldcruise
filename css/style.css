@@ -343,6 +343,9 @@ footer p.contact-info {
 	font-size: 20px;
 	margin-bottom: 20px;
 }
+footer p.contact-info a {
+	color: inherit;
+}
 /* ========== MEDIA QUIRIES ========== */
 @media screen and (max-width:500px) {
 header {
