@@ -345,6 +345,7 @@ footer p.contact-info {
 }
 footer p.contact-info a {
 	color: inherit;
+	margin-left: 20px;
 }
 /* ========== MEDIA QUIRIES ========== */
 @media screen and (max-width:500px) {
@@ -470,6 +471,15 @@ header {
 
 }
 
+@media only screen and (max-width : 768px) {
+	footer p.contact-info span,
+	footer p.contact-info a {
+		display: block;
+	}
+	footer p.contact-info a {
+		margin: 20px auto 0;
+	}
+}
 
 /* CUSTOM STYLES */
 .welcome {
