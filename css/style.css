@@ -339,6 +339,10 @@ footer p {
 	font-size: 15px;
 	line-height: 20px;
 }
+footer p.contact-info {
+	font-size: 20px;
+	margin-bottom: 20px;
+}
 /* ========== MEDIA QUIRIES ========== */
 @media screen and (max-width:500px) {
 header {
